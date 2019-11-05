@@ -1,8 +1,8 @@
 # hello-world
 first repository
 
-Hi Sid
+Hi
 
-I like share somting about selemium pls explain that to me
+Hello golang
 
-i am waiting for your replay.
+
